@@ -65,7 +65,7 @@ and your rank
         "chosen": "A"
     },
     {
-        "questionId": 2,								//You must send as many answers as the number of questions
+        "questionId": 2,			//You must send as many answers as the number of questions
         "chosen": "B"
     },
     {
