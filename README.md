@@ -46,7 +46,7 @@ and your rank
 {
     "Question": "Calculate 3+2=?",
     "ChoiceA": "5",
-    "ChoiceB": "4",
+    "ChoiceB": "4",									
     "ChoiceC": "3",
     "ChoiceD": "2",
     "Answer": "A"
@@ -65,16 +65,16 @@ and your rank
         "chosen": "A"
     },
     {
-        "questionId": 2,
-        "chosen": "D"
+        "questionId": 2,								//You must send as many answers as the number of questions
+        "chosen": "B"
     },
     {
         "questionId": 3,
-        "chosen": "A"
+        "chosen": "C"
     },
     {
         "questionId": 4,
-        "chosen": "A"
+        "chosen": "D"
     },
     {
         "questionId": 5,
